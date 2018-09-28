@@ -1,2 +1,2 @@
-# click-game
+# Click Game
 React memory based game
